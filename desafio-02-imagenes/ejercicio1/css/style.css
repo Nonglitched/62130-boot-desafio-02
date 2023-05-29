@@ -1,0 +1,121 @@
+body {
+    background-color: #273238;
+}
+
+.title {
+    background-color: white;
+    color: #688591;
+    text-align: center;
+    font-family: Impact, sans-serif;
+    font-size: 24px;
+}
+
+.aspiradora {
+    letter-spacing: 0px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #dfcfc2;
+}
+
+.aspiradora:first-letter {
+    font-size: 28px;
+}
+
+.aspimg {
+    border: 6px #dfcfc2 solid;
+    margin-left: 50px;
+    padding-left: 1px;
+    padding-top: 1px;
+}
+
+.celulares {
+    letter-spacing: 0px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #a0c1c9;
+}
+
+.celulares:first-letter {
+    font-size: 28px;
+}
+
+.celimg {
+    border: 6px #a0c1c9 solid;
+    margin-left: 50px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+
+.consola {
+    letter-spacing: 0px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #bebdc8;
+}
+
+.consola:first-letter {
+    font-size: 28px;
+}
+
+.conimg {
+    border: 6px #bebdc8 solid;
+    margin-left: 50px;
+    padding-left: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.home {
+    letter-spacing: 0px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #8d94a1;
+}
+
+.home:first-letter {
+    font-size: 28px;
+}
+
+.img {
+    width: 500px;
+    height: 146px;
+    object-fit: cover;
+}
+
+.homimg {
+    border: 6px #8d94a1 solid;
+    margin-left: 50px;
+    padding-left: 1px;
+    padding-top: 1px;
+}
+
+.televisores {
+    letter-spacing: 0px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #b5afa1;
+}
+
+.televisores:first-letter {
+    font-size: 28px;
+}
+
+.telimg {
+    border: 6px #b5afa1 solid;
+    margin-left: 50px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+
+p {
+    font-family: 'Lucida Sans Unicode',
+        'Lucida Grande',
+        sans-serif;
+    text-align: justify;
+    color: white;
+}

@@ -1,0 +1,60 @@
+p {
+    font-size: 14px;
+    color: rgb(86, 86, 210);
+    font-family:
+        Verdana,
+        sans-serif;
+    line-height: 1.5;
+}
+
+h1 {
+    color: #bf5696;
+    font-family: sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.5em;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    color: #bf5696;
+    letter-spacing: 0.5em;
+    font-family: sans-serif;
+}
+
+.img1 {
+    display: block;
+    width: 25vw;
+    margin: 0 auto;
+}
+
+.img2 {
+    display: block;
+    width: 400px;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+
+.img3 {
+    width: 400px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.img4 {
+    display: block;
+    width: 400px;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+
+.img5 {
+    display: block;
+    width: 100vw;
+}
+.lodge {
+    
+}
